@@ -2,11 +2,8 @@
 
 <div align="left">
   <a href="https://github.com/PedrosoEscola">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedrosoEscola&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img align="top" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="top" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="top" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="top" alt="jQuery" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
+  <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=PedrosoEscola&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img align="right" width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrosoEscola&layout=compact&langs_count=7&theme=algolia&include"/>
 </div>
 
 ##
@@ -14,6 +11,12 @@
 <div> 
   <a href="https://www.instagram.com/pedr0_pedroso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:henrique.pedroso.pedro@escola.pr.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <img align="right" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="right" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="right" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="jQuery" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
 </div>
+
+##
 
  ![Snake animation](https://github.com/PedrosoEscola/PedrosoEscola/blob/output/github-contribution-grid-snake.svg)

@@ -16,6 +16,4 @@
   <img align="right" alt="jQuery" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
 </div>
 
-##
-
  ![Snake animation](https://github.com/PedrosoEscola/PedrosoEscola/blob/output/github-contribution-grid-snake.svg)

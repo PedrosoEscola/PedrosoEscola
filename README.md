@@ -2,7 +2,7 @@
 
 <div align="left">
   <a href="https://github.com/PedrosoEscola">
-  <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=PedrosoEscola&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=PedrosoEscola&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img align="right" width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrosoEscola&layout=compact&langs_count=7&theme=algolia&include"/>
 </div>
 
